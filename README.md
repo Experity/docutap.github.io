@@ -8,4 +8,6 @@ Using [Jekyll](http://jekyllrb.com) and the [Type Theme](https://rohanchandra.gi
 
 ## License
 
-The MIT License (MIT)
+The MIT License (MIT) for Jekyll and Type Theme.
+
+Logos, Content and Clockwise.MD are Copyright Lightshed Healthcare Technologies.
