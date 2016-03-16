@@ -5,8 +5,8 @@ $font-size: 1.25em;
 
 // Padding
 $padding-large: 20%;
-$padding-small: 5%;
-$padding-x-small: 3%;
+$padding-small: 3%;
+$padding-x-small: 2%;
 
 // Brand colours
 $brand-color: #fff;
@@ -28,3 +28,9 @@ $feature-image-size: cover; // options include "cover", "contain", "auto"
 // Header description box
 $header-desc-background-color: #037ABD;
 $header-desc-text-color: #FFF;
+
+// Post boxes
+$legend-color: #aa6708;
+$updates-color: #448aff;
+$features-color: #1abb9c;
+$fixes-color: #ff6e40;

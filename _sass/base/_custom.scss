@@ -1,0 +1,54 @@
+@mixin border-radius($radius) {
+  -webkit-border-radius: $radius;
+     -moz-border-radius: $radius;
+      -ms-border-radius: $radius;
+          border-radius: $radius;
+}
+
+@mixin post-box {
+  @include border-radius(3px);
+  padding: 20px;
+  margin: 20px 0;
+  border: 1px solid #eee;
+  border-left-width: 5px;
+}
+
+.post-content > .legend {
+  @include post-box;
+  border-left-color: $legend-color;
+  h4 {
+    color: $legend-color;
+  }
+}
+
+.post-content > .updates {
+  @include post-box;
+  border-left-color: $updates-color;
+  h4 {
+    color: $updates-color;
+  }
+}
+
+.post-content > .features {
+  @include post-box;
+  border-left-color: $features-color;
+  h4 {
+    color: $features-color;
+  }
+}
+
+.post-content > .fixes {
+  @include post-box;
+  border-left-color: $fixes-color;
+  h4 {
+    color: $fixes-color;
+  }
+}
+
+.post-content h4 {
+  margin-top: 0.2em;
+}
+
+.post-content ul {
+  margin-bottom: 0;
+}
