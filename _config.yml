@@ -6,16 +6,16 @@ timezone: America/New_York
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Clockwise.MD Release Notes
+  title: Clockwise.MD Updates
   avatar: avatar.png
   gravatar: # Email MD5 hash
-  description: "Release notes for Clockwise.MD" # used by search engines
+  description: "Release notes and updates for Clockwise.MD" # used by search engines
 
   # Header and footer text
   header_text: >
-    <p>Welcome to the Clockwise.MD Release Notes site.</p>
+    <p>Welcome to the Clockwise.MD Updates site.</p>
 
-    <p>Find out about upcoming and latest changes to Clockwise.</p>
+    <p>Find out about the latest releases and upcoming changes to Clockwise.</p>
   header_text_feature_image:
   footer_text: >
     Visit <a href="https://www.clockwisemd.com">Clockwise.MD</a> or view our <a href="http://status.clockwisemd.com">Site Status</a>
