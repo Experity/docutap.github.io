@@ -19,6 +19,9 @@
   h4 {
     color: $legend-color;
   }
+  > p {
+    margin-bottom: 0;
+  }
 }
 
 .post-content > .updates {
@@ -46,7 +49,7 @@
 }
 
 .post-content h4 {
-  margin-top: 0.2em;
+  margin-top: 0;
 }
 
 .post-content ul {
