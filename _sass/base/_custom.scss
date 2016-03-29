@@ -20,7 +20,7 @@
     color: $legend-color;
   }
   > p {
-    margin-bottom: 0;
+    margin-bottom: 0.5em;
   }
 }
 
@@ -48,10 +48,31 @@
   }
 }
 
-.post-content h4 {
-  margin-top: 0;
+.post-content {
+  .updates h4,
+  .legend h4,
+  .features h4,
+  .fixes h4 {
+    margin-top: 0;
+  }
+
+  .updates ul,
+  .legend ul,
+  .features ul,
+  .fixes ul {
+    margin-bottom: 0;
+  }
+
+  ul {
+    padding-left: 1.5em;
+  }
+
+  li {
+    padding-left: 1em;
+    text-indent: -1em;
+  }
 }
 
-.post-content ul {
-  margin-bottom: 0;
+.notice {
+  font-weight: bold;
 }
