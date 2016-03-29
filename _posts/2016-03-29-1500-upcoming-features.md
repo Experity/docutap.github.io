@@ -5,7 +5,7 @@ title: Upcoming features in April
 
 Upcoming changes to Callback Times, Android App and Reports.
 
-### Callback Times
+## Callback Times
 
 #### Current functionality
 
@@ -57,7 +57,7 @@ This will available starting next week on 4/5/2016.
 
 </div>
 
-### Android App Update
+## Android App Update
 
 Many of you use the Matricom G-Box Q devices to display your wait times on your TVs.
 [Matricom has announced an over-the-air (OTA) upgrade to Android 5](http://matricom.net/g-box-q-android-5-ota-firmware-update-20/).
@@ -76,7 +76,7 @@ The UrgentQ application will be updated on the Google Play Store starting 4/11/2
 
 </div>
 
-### New Reports Preview
+## New Reports Preview
 
 We're excited to announce an updated Reports system that includes:
 
