@@ -41,6 +41,16 @@ When clicking on the 'i' icon:
 given an updated time after their "First expected".
 - "First expected" is the initial time communicated to the patient.
 
+The nurse screen will be updated as well:
+
+![upcoming callback times](/images/2016-03-30_upcoming-callback-nurse-screen.png)
+
+- Instead of showing the earliest expected callback time, we're showing the current callback time.
+- The patients will always be in the right order.
+- We've removed the date since your patients are all visiting on the same day.
+- The patient's time will continue to color red if their actual wait time exceeds their expected
+callback times.
+
 <div class='updates notice'>
 
 This will available starting next week on 4/5/2016.
