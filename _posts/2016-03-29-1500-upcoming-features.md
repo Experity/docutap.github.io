@@ -27,9 +27,9 @@ In an upcoming release, we're making a few changes to the Callback Time column:
 - Instead of showing the earliest expected callback time, we're showing the current callback time.
 - The patients will always be in the right order.
 - We've removed the date since your patients are all visiting on the same day.
-- Patients that have been "pushed back" due to a delay at your clinic are clearly labeled.
-- Patients that are "late arrivals" are clearly marked as well. These are patients that haven't
-checked-in yet and are running behind.
+- Patients that have been "pushed back" due to a delay at your clinic and have received a
+delay text message.
+- Patients that are "late arrivals" are patients that haven't checked-in yet and are running behind.
 
 When clicking on the 'i' icon:
 
