@@ -9,8 +9,6 @@ Upcoming changes to Callback Times, Android App and Reports.
 
 #### Current functionality
 
-![current callback times](/images/2016-03-30_current-callback-times.png)
-
 You'll note on the Callback Time column that:
 
 - The date 3/25/2016 is repeated for every patient.
@@ -18,11 +16,11 @@ You'll note on the Callback Time column that:
 - Once the patient checks in, that delayed time of 09:42 AM will no longer be shown.
 - The time being displayed is the earliest expected callback time even when the patient is delayed or late.
 
+![current callback times](/images/2016-03-30_current-callback-times.png)
+
 #### Upcoming functionality
 
 In an upcoming release, we're making a few changes to the Callback Time column:
-
-![upcoming callback times](/images/2016-03-30_upcoming-callback-times.png)
 
 - Instead of showing the earliest expected callback time, we're showing the current callback time.
 - The patients will always be in the right order.
@@ -31,9 +29,9 @@ In an upcoming release, we're making a few changes to the Callback Time column:
 delay text message.
 - Patients that are "late arrivals" are patients that haven't checked-in yet and are running behind.
 
-When clicking on the 'i' icon:
+![upcoming callback times](/images/2016-03-30_upcoming-callback-times.png)
 
-![upcoming callback times](/images/2016-03-30_upcoming-callback-popup.png)
+When clicking on the 'i' icon:
 
 - The info popup will include all key times that we've communicated to the patient.
 - "Current Callback" is their actual callback time as seen on the wait room TV.
@@ -41,15 +39,17 @@ When clicking on the 'i' icon:
 given an updated time after their "First expected".
 - "First expected" is the initial time communicated to the patient.
 
-The nurse screen will be updated as well:
+![upcoming callback times](/images/2016-03-30_upcoming-callback-popup.png)
 
-![upcoming callback times](/images/2016-03-30_upcoming-callback-nurse-screen.png)
+The nurse screen will be updated as well:
 
 - Instead of showing the earliest expected callback time, we're showing the current callback time.
 - The patients will always be in the right order.
 - We've removed the date since your patients are all visiting on the same day.
 - The patient's time will continue to color red if their actual wait time exceeds their expected
 callback times.
+
+![upcoming callback times](/images/2016-03-30_upcoming-callback-nurse-screen.png)
 
 <div class='updates notice'>
 
