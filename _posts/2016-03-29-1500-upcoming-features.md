@@ -16,7 +16,7 @@ You'll note on the Callback Time column that:
 - Once the patient checks in, that delayed time of 09:42 AM will no longer be shown.
 - The time being displayed is the earliest expected callback time even when the patient is delayed or late.
 
-![current callback times](/images/2016-03-30_current-callback-times.png)
+![current callback times](/img/2016-03-30_current-callback-times.png)
 
 #### Upcoming functionality
 
@@ -29,7 +29,7 @@ In an upcoming release, we're making a few changes to the Callback Time column:
 delay text message.
 - Patients that are "late arrivals" are patients that haven't checked-in yet and are running behind.
 
-![upcoming callback times](/images/2016-03-30_upcoming-callback-times.png)
+![upcoming callback times](/img/2016-03-30_upcoming-callback-times.png)
 
 When clicking on the 'i' icon:
 
@@ -39,7 +39,7 @@ When clicking on the 'i' icon:
 given an updated time after their "First expected".
 - "First expected" is the initial time communicated to the patient.
 
-![upcoming callback times](/images/2016-03-30_upcoming-callback-popup.png)
+![upcoming callback times](/img/2016-03-30_upcoming-callback-popup.png)
 
 The nurse screen will be updated as well:
 
@@ -49,7 +49,7 @@ The nurse screen will be updated as well:
 - The patient's time will continue to color red if their actual wait time exceeds their expected
 callback times.
 
-![upcoming callback times](/images/2016-03-30_upcoming-callback-nurse-screen.png)
+![upcoming callback times](/img/2016-03-30_upcoming-callback-nurse-screen.png)
 
 <div class='updates notice'>
 
