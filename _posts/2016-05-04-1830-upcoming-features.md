@@ -6,24 +6,27 @@ title: Upcoming features in May
 Changes to clarifying Delay as Pause. A new feature called Provider Check-in. Additionally an
 updated Training Manual. Finally, an important note to your IT department and web developers.
 
-## Delay, I mean Pause a Patient
+## Pause a patient due to registration delays
 
 #### Current functionality
 
 Delay isn't really delay, it's Pause!
 
-Some customers have the ability to delay calling back a specific patient. It appears as a "Delay"
-button in a column labeled "Delay".
-
-Unfortunately, this ability to Delay is confused with other actions within Clockwise.MD that also
-use the keyword "Delay". This includes the features of delaying all callbacks and when patients
-are delayed due to lengthening wait times.
+Some customers have the ability to communicate a registration delay to a patient.  Once the "delay"
+button is pressed a message that says "waiting for authorization" will appear on the wait room TV.
 
 ![current delay column](/img/2016-05-04_current-delay-column.png)
 
+![waiting for authorization](/img/2016-05-04_waiting-for-authorization.png)
+
+Unfortunately, this ability to Delay is confused with other actions within Clockwise.MD that also
+use the keyword "Delay". This includes the "Delay Callback" feature that adds minutes to a
+patient's expected callback time, rather than simply displaying a message on the wait room TV.   
+
 #### Upcoming functionality
 
-In an upcoming release, we will rename Delay to Pause.
+In an upcoming release, we will rename Delay to Pause. The same "Waiting for Authorization"
+message will appear on the wait room TV.
 
 ![upcoming pause column](/img/2016-05-04_upcoming-pause-column.png)
 
