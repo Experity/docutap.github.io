@@ -13,7 +13,7 @@ page.
 ![new reports](/img/2016-06-27-reports-click-me.png)
 
 Clockwise.MD account managers, product specialists and engineers have been working hard to bring
-you even more information to your fingertips. We're released the following new types of reports.
+you even more information to your fingertips. We've released the following new types of reports.
 
 #### Group reports
 
