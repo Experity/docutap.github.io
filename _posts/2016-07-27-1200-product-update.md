@@ -39,13 +39,28 @@ know which systems Clockwise.MD needs access to in order to function.
 If you're having problems viewing reports (i.e. you just see a blank screen), then we need to
 whitelist more domains with your IT Security team.
 
-Please reach out to us at [support@clockwisemd.com](mailto:support@clockwisemd.com) and we'll get
-that process started.
+The list of domains is available in our [IT README](https://docs.google.com/document/d/1tB5q1r-9OrK6DHPTe6DL28pByIbI2vcyESaSfQln4yk/edit#heading=h.4n7z0z9x1jiw).
 
-## SMS surveys now support qualitative feedback
+You can also reach out to us at [support@clockwisemd.com](mailto:support@clockwisemd.com) and
+we'll get that process started.
 
-You can now follow-up the NPS Survey score question with a qualitative open-ended question to
-gather free text feedback from the patient.
+## Clockwise Survey for Athena Integrated Customers
+
+Now patients entered directly into Clockwise.MD or directly into Athena will both receive SMS text
+surveys. Clockwise.MD now sends the post-discharge SMS survey if the "consent to text" box is
+checked within Athena.
+
+<div class='updates notice'>
+
+This is available now. Contact your Account Manager for more details.
+
+</div>
+
+## Clockwise Survey can get you more than a score
+
+Clockwise Survey can now be used to gather free-text feedback, Net Promotor Scores&reg;, or both!
+Patient's qualitative feedback can be used to guide service recovery efforts for patients who have
+had a negative experience.
 
 <div class='updates notice'>
 
