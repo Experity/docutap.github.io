@@ -5,7 +5,7 @@ timezone: America/New_York
 future: true
 
 # THEME-SPECIFIC CONFIGURATION
-theme:
+theme_settings:
   # Meta
   title: Clockwise.MD Updates
   avatar: avatar.png
