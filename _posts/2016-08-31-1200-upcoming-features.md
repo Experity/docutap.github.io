@@ -36,7 +36,7 @@ Filtering allows for limiting your results to just the patients you want to look
 downloading a CSV and hiding rows in your favorite spreadsheet tool, we'll offer some simple
 filtering options for quick lookups and searches.
 
-Views allows for pre-defined column selections without having to manually select each column
+Views allow for pre-defined column selections without having to manually select each column
 every time you visit Today's Patients.
 
 When we combine these two features, we'll have the ability to provide you with filtered views to
