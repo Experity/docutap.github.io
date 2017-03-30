@@ -24,7 +24,7 @@ Available now. Please contact your Account Manager for details.
 
 ## Text Message Wildcards
 
-Wildcards allow you to site certain pieces of information, like the patient's time of visit or
+Wildcards allow you to cite certain pieces of information, like the patient's time of visit or
 position in queue, in real-time as the information continues to change. We've added a list of all
 available wildcards to our **text message settings page** (hospitals/_ID_/settings/text_messages)
 to allow you to easily utilize these inputs.  
