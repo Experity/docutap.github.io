@@ -45,8 +45,8 @@ Available now.
 
 ## Data Warehousing, Business Intelligence and Reporting
 
-BI integrations really depend on the data you're querying for. Are you looking for the current
-wait times, the patients currently being treated, all patients for the day, etc?
+Are you looking for the current wait times, the patients currently being treated, all patients
+for the day, etc?
 
 In addition to our Reports, we have three ways to pull data:
 
