@@ -8,7 +8,7 @@ title: February Product Update
 This new feature will allow you to capture why a patient's reservation is removed. The available
 removal reasons are configurable including the ability to allow for "Other" fill-in reasons.
 
-![reason for removal](/img/20177-02-17-reason-for-removal.png)
+![reason for removal](/img/2017-02-17-reason-for-removal.png)
 
 <div class='updates notice'>
 
