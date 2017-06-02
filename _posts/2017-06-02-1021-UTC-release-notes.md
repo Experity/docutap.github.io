@@ -5,22 +5,10 @@ title: Release Notes for 2017-06-02
 
 Latest release notes for 2017-06-02 at 1021-UTC.
 
-<div class='legend' markdown='1'>
+<div class='updates' markdown='1'>
 
-#### Legend
+#### Updates
 
-All changes are available immediately unless labeled as internal or dark code:
-
-- {:.legend} [internal] changes are only visible or applicable to Clockwise.MD staff.
-- {:.legend} [dark code] changes are hidden from general use until made visible at a later date.
+- {:.update} Minor enhancements, fixes or environment changes not listed in detail.
 
 </div>
-
-<div class='features' markdown='1'>
-
-#### Features
-
-- {:.feature} /waits API now includes website_wait_display identical to javascript API output.
-
-</div>
-
