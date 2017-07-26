@@ -20,7 +20,8 @@ All changes are available immediately unless labeled as internal or dark code:
 
 #### Features
 
-- {:.feature} [hide] Allow features in Pivotal to not show up in the release notes
+- {:.feature} Provider Check-in form now saves as soon as the user clicks "Check In"
+- {:.feature} Provider Check-in supports providers with different velocities
 
 </div>
 
