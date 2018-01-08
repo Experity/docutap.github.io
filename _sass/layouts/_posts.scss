@@ -71,7 +71,7 @@ header {
     width: 50%;
   }
   a:hover {
-    @extend a.button:hover;
+    @extend a, .button, :hover;
   }
 
   i {
