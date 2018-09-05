@@ -24,11 +24,3 @@ All changes are available immediately unless labeled as internal or dark code:
 - {:.feature} Easier navigation to switch to a different authorized clinic
 
 </div>
-
-<div class='fixes' markdown='1'>
-
-#### Fixes
-
-- {:.fix} Current Wait on the patient facing appointment intake page now shows Spanish properly
-
-</div>
