@@ -21,6 +21,6 @@ All changes are available immediately unless labeled as internal or dark code:
 
 #### Fixes
 
-- {:.fix} [internal] Hospital's organization can be changed in /team/admin
+- {:.fix} [internal] Hospital's organization can be changed in Team Admin
 
 </div>
