@@ -1,0 +1,37 @@
+---
+layout: post
+title: Release Notes for 2020-08-19
+---
+
+Latest release notes for 2020.17 2020-08-19 at 2106-UTC.
+
+<div class='legend' markdown='1'>
+
+#### Legend
+
+All changes are available immediately unless labeled as internal or dark code:
+
+- {:.legend} [internal] changes are only visible or applicable to Clockwise.MD staff.
+- {:.legend} [dark code] changes are hidden from general use until made visible at a later date.
+
+</div>
+
+<div class='features' markdown='1'>
+
+#### Features
+
+- {:.feature} This is a test release
+- {:.feature} Test Release Notes #1
+- {:.feature} Test Release Notes
+
+</div>
+
+<div class='fixes' markdown='1'>
+
+#### Fixes
+
+- {:.fix} Bug test description
+- {:.fix} Kanban bug test
+- {:.fix} Kanban next-release state test description
+
+</div>
